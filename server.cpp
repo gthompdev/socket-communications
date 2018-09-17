@@ -1,5 +1,5 @@
 /* name: Greg Thompson
-   PsId: 1569808
+
    Description: A server which prompts the user for a text file to be read into a table, which will then be queried
    by the client. The server will return the major's corresponding early and mid career salaries through the socket.
 */
