@@ -1,5 +1,5 @@
 /* name: Greg Thompson
-   PsId: 1569808
+
    Description: The client side of the communication. A message containing a college major will be sent from this program to
    the server, and will wait for the server to return the corresponding early and mid career salaries.
 */
